@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Natalia",
+        "descricao": "Desenvolvedor Front-End"
+    },
+    {
+        "nome": "Marcos Pedro",
+        "descricao": "Desenvolvedor Back-End"
+    },
+    {
+        "nome": "Maria Helena",
+        "descricao": "Desenvolvedor Back-End"
+    },
+    {
+        "nome": "Mario Fernandes",
+        "descricao": "UI/UX Design"
+    },
+    {
+        "nome": "Jose Smith",
+        "descricao": "Banco de Dados"
+    }
+]
